@@ -8,4 +8,5 @@ function abubakr() {
   )
 }
 
-export default abubakr
+export default Abubakr
+
