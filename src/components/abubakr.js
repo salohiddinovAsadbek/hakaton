@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Abubakr() {
+function abubakr() {
   return (
     <div>
       <h1>Abubakr</h1>
@@ -9,3 +9,4 @@ function Abubakr() {
 }
 
 export default Abubakr
+
