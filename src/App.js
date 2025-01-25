@@ -1,7 +1,9 @@
-import Abubakr from "./components/abubakr";
-
 function App() {
-  return <div className="App"></div>;
+  return (
+    <div className="App">
+      <h1>salom</h1>
+    </div>
+  );
 }
 
 export default App;
